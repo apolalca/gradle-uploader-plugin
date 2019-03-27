@@ -1,2 +1,10 @@
 /.metadata/
 /.recommenders/
+.idea/
+.gradle/
+build/
+repo/
+*.iml
+.DS_Store
+packer.properties
+.project
